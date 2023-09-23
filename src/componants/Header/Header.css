@@ -1,0 +1,24 @@
+.title {
+    text-transform: uppercase;
+    font-size: 5vw;
+    cursor: pointer;
+    word-spacing:10px
+  }
+  
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .divider {
+    margin: 10px;
+    width: 100%;
+    background-color: grey;
+  }
+
+  small span{
+    font-family:'Roboto', sans-serif ;
+    font-size:3vw;
+    color:gray;
+  }
